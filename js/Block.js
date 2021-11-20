@@ -1,5 +1,5 @@
 class Block{
-    constructor(x, y, width, height) {
+    constructor(x, y, width, height) {fgt
         var options = {
             restitution :0.4,
             friction :0.0,
